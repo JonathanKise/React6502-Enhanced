@@ -11,3 +11,6 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.text-primary {
+  color: #1a73e8; /* Set the text color to a primary color */
+}
